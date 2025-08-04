@@ -1,0 +1,5 @@
+ database.default.hostname = 122.8.178.132
+ database.default.database = hmngy_diot2
+ database.default.username = adminHMNGY
+ database.default.password = h$yoLrombE36Vgn
+ database.default.DBDriver = MySQLi
